@@ -1,0 +1,21 @@
+{
+  "name": "dothen",
+  "version": "1.0.0",
+  "description": "Chain several functions together so they can be called as one function sequentially.",
+  "main": "does.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/tt"
+  },
+  "keywords": [
+    "Function",
+    "chaining."
+  ],
+  "author": "Richard J. Glanvill <thedecimalspace@gmail.com> (thedecimal.space)",
+  "license": "ISC",
+  "devDependencies": {
+    "taste-test": "^0.1.1"
+  }
+}
